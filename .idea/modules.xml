@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CheckersOnJava.iml" filepath="$PROJECT_DIR$/.idea/modules/CheckersOnJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CheckersOnJava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CheckersOnJava_main.iml" group="CheckersOnJava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CheckersOnJava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CheckersOnJava_test.iml" group="CheckersOnJava" />
+    </modules>
+  </component>
+</project>
